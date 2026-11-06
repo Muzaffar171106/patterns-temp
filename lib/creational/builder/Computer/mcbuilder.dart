@@ -1,5 +1,5 @@
-import 'package:builder/Computer/computer.dart';
-import 'package:builder/Computer/computerbuilder.dart';
+import 'package:builder/creational/builder/Computer/computer.dart';
+import 'package:builder/creational/builder/Computer/computerbuilder.dart';
 
 class MacBuilder implements ComputerBuilder {
   late Computer _computer;

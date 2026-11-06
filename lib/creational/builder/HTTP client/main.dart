@@ -1,4 +1,5 @@
-import 'package:design_patterns/builder/http_client_builder.dart';
+import 'package:builder/creational/builder/HTTP%20client/http_client_builder.dart';
+
 
 void main() {
   final client = HttpClientBuilder()

@@ -9,6 +9,6 @@ class DatabaseConnection {
   }
 
   void connect() {
-    print("Database connected!");
+    print("Database ulandi!");
   }
 }

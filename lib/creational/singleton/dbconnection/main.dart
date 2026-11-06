@@ -1,4 +1,4 @@
-import 'DatabaseConnection.dart';
+import 'package:builder/creational/singleton/dbconnection/DBConnection.dart';
 
 void main() {
   var db1 = DatabaseConnection();

@@ -1,7 +1,8 @@
-import 'package:builder/Computer/computer.dart';
-import 'package:builder/Computer/director.dart';
-import 'package:builder/Computer/mcbuilder.dart';
-import 'package:builder/Computer/pcbuilder.dart';
+import 'package:builder/creational/builder/Computer/computer.dart';
+import 'package:builder/creational/builder/Computer/director.dart';
+import 'package:builder/creational/builder/Computer/mcbuilder.dart';
+import 'package:builder/creational/builder/Computer/pcbuilder.dart';
+import 'package:builder/creational/builder/Computer/computer.dart';
 
 void main(){
   final director = Director();

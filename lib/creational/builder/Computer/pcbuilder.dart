@@ -1,7 +1,7 @@
 
-import 'package:builder/Computer/computer.dart';
-import 'package:builder/Computer/computerbuilder.dart';
-import 'package:builder/Computer/mcbuilder.dart';
+import 'package:builder/creational/builder/Computer/computer.dart';
+import 'package:builder/creational/builder/Computer/computerbuilder.dart';
+import 'package:builder/creational/builder/Computer/mcbuilder.dart';
 
 class PCBuilder implements ComputerBuilder {
   late Computer _computer;
